@@ -9,3 +9,21 @@
 .mr-10 {
   margin-right: 10%;
 }
+
+.menu {
+  display: none;
+}
+
+.small-menu {
+  display: flex;
+}
+
+@media screen and (min-width: 991px) {
+  .menu {
+    display: flex;
+  }
+
+  .small-menu {
+    display: none;
+  }
+}
