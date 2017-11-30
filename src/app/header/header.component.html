@@ -1,47 +1,76 @@
-<nav class="navbar navbar-default navbar-expand-lg navbar-light bg-light">
-  <a routerLink="/" class="navbar-brand">Navbar</a>
-  <button class="navbar-toggler" type="button"
-    data-toggle="collapse" data-target="#navbar-content"
-    aria-controls="navbar-content" aria-expanded="false"
-    aria-label="Toggle Navigation">
-    <i class="zmdi zmdi-menu"></i>
-  </button>
-
-  <div class="collapse navbar-collapse justify-content-end" id="navbar-content">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a routerLink="/" class="nav-link">Trang chủ</a>
-      </li>
-      <li class="nav-item dropdown" appDropdown>
-        <a routerLink="/entry-test" class="nav-link dropdown-toggle"
-          id="entry-test" role="button" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">
-          Đăng ký học
+<div class="container">
+  <nav class="navbar fixed-top navbar-default navbar-expand-lg navbar-light bg-light">
+        <a routerLink="/" class="navbar-brand ml-10">
+          <img src="/assets/brand-transparent.png" style="width:60px;height:45px;">
         </a>
-        <div class="dropdown-menu" aria-labelledby="entry-test">
-          <a routerLink="/entry-test" class="dropdown-item">Test đầu vào</a>
-          <a routerLink="/register" class="dropdown-item">Đăng ký học</a>
+        <button class="navbar-toggler mr-10" type="button"
+          data-toggle="collapse" data-target="#navbar-content"
+          aria-controls="navbar-content" aria-expanded="false"
+          aria-label="Toggle Navigation" (click)="show()"
+          style="cursor: pointer"
+        >
+          <i class="zmdi zmdi-menu"></i>
+        </button>
+      
+        <div [ngClass]="{'collapse navbar-collapse justify-content-end mr-10': true, show: isShow}" id="navbar-content">
+          <ul class="navbar-nav d-none d-md-flex">
+            <li class="nav-item">
+              <a routerLink="/" class="nav-link">Trang chủ</a>
+            </li>
+            <li class="nav-item dropdown" appDropdown>
+              <a routerLink="/entry-test" class="nav-link dropdown-toggle"
+                id="entry-test" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Đăng ký học
+              </a>
+              <div class="dropdown-menu" aria-labelledby="entry-test">
+                <a routerLink="/entry-test" class="dropdown-item">Test đầu vào</a>
+                <a routerLink="/register" class="dropdown-item">Đăng ký học</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown" appDropdown>
+              <a routerLink="/self-study" class="nav-link dropdown-toggle"
+                id="self-study" role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Tự học
+              </a>
+              <div class="dropdown-menu" aria-labelledby="self-study">
+                <a routerLink="/self-study" class="dropdown-item">Cách học và link tải phim</a>
+                <a routerLink="/movies" class="dropdown-item">Phim</a>
+                <a routerLink="/stories" class="dropdown-item">Truyện</a>
+                <a routerLink="/audios" class="dropdown-item">Luyện nghe</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a href="http://dict.tienganhthaytien.com/" class="nav-link">Dictionary</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav d-md-none">
+              <li class="nav-item">
+                <a routerLink="/" class="nav-link">Trang chủ</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/entry-test" class="nav-link">Test đầu vào</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/register" class="nav-link">Đăng ký học</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/self-study" class="nav-link">Cách học và link tải phim</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/movies" class="nav-link">Phim</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/stories" class="nav-link">Truyện</a>
+              </li>
+              <li class="nav-item">
+                <a routerLink="/audios" class="nav-link">Luyện nghe</a>
+              </li>
+              <li class="nav-item">
+                <a href="http://dict.tienganhthaytien.com/" class="nav-link">Dictionary</a>
+              </li>
+            </ul>
         </div>
-      </li>
-      <li class="nav-item dropdown" appDropdown>
-        <a routerLink="/self-study" class="nav-link dropdown-toggle"
-          id="self-study" role="button" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">
-          Tự học
-        </a>
-        <div class="dropdown-menu" aria-labelledby="self-study">
-          <a routerLink="/self-study" class="dropdown-item">Cách học và link tải phim</a>
-          <a routerLink="/movies" class="dropdown-item">Phim</a>
-          <a routerLink="/stories" class="dropdown-item">Truyện</a>
-          <a routerLink="/audios" class="dropdown-item">Luyện nghe</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a href="http://dict.tienganhthaytien.com/" class="nav-link">Dictionary</a>
-      </li>
-      <li class="nav-item">
-        <a routerLink="/contact" class="nav-link">Liên hệ</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+    </nav>
+</div>

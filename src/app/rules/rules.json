@@ -1,0 +1,489 @@
+{
+  "rule-1": {
+    "header":
+      "*** Nguyên tắc đầu tiên nếu muốn giao tiếp tiếng Anh: “Hãy cố gắng truyền đạt ý của bạn, đừng cố truyền đạt những từ xuất hiện trong đầu bạn khi bạn có ý nào đó”",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "– Biết nhiều từ là tốt, nhưng trong giao tiếp chắc chắn bạn sẽ gặp những trường hợp mà có nhiều từ bạn không biết, lúc đó bạn làm gì? Tìm từ tiếng Anh tương ứng rồi cứ thế tương vào câu mặc cho người nghe có hiểu hay không, thế thì chắc chắn là bạn nên đọc tiếp rồi."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Hầu hết chúng ta khi cố gắng nói tiếng Anh, đều cố gắng truyền đạt từ, mà quên mất rằng để người nghe hiểu mình, dùng từ nào không quan trọng bằng việc mình diễn đạt ý của mình như thế nào, tại sao ư:"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "1. Từ vựng tiếng Việt mà bạn có tính bằng đơn vị triệu, còn từ vựng tiếng Anh mà bạn có tính bằng đơn vị trăm, ngàn. Việc lúc nào cũng chăm chăm tìm một từ tiếng Anh tương ứng với một từ tiếng Việt để rồi nói ra là điều cực kỳ mệt mỏi và không thực sự khả thi. Hơn nữa nó cũng không quyết định chắc chắn việc bạn sẽ giao tiếp được hay không."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "2. Nếu chỉ bám vào từ để dịch, có thể với một từ mình tìm dc vài 3 từ tương ứng, nhưng nếu bám vào ý, thì có rất nhiều cách để diễn đạt ý của bạn, bạn có thể tách câu mình định nói thành 2-3 câu để làm nó đơn giản hơn, và quan trọng nhất là, nếu bạn bám vào ý để diễn đạt, thì khả năng rất cao là người nghe sẽ hiểu bạn."
+      },
+      { "elementType": "p", "text": "Ví dụ nhé:" },
+      {
+        "elementType": "p",
+        "text": "Từ câu: “Nói một cách khái quát, chúng ta đang làm sai cách”."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nếu là bạn, bạn làm thế nào: Bắt đầu tìm từ nói, rồi một cách, rồi khái quát (nguyên việc này thôi đã làm nhiều người nản muốn bỏ cuộc rồi)… xong ghép vào với nhau… ai cũng biết là sẽ chắng có ai hiểu bạn đang muốn nói gì đâu."
+      },
+      {
+        "elementType": "p",
+        "text": "Thay vào đó, nếu tập trung vào ý, bạn hoàn toàn có thể nói là:"
+      },
+      { "elementType": "p", "text": "“I think we’re doing it wrong”" },
+      {
+        "elementType": "p",
+        "text":
+          "Câu này chắc ai cũng hiểu, toàn từ đơn giản, nhưng không mấy ai nghĩ là có thể dùng như thế, vì chúng ta tập trung vào từ quá nhiều mà quên mất là mục tiêu chính là để người ta hiểu cái mình đang nghĩ trong đầu và muốn nói với họ."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nhưng, câu hỏi tiếp theo phát sinh là: Nếu k dịch từng từ, làm sao mình biết thứ tự như thế nào để mà ghép vào bây giờ, học ngữ pháp ư? No No No. Câu trả lời sẽ nằm ở post tiếp theo của mình, bạn nào muốn giao tiếp tiếng Anh thì chú ý theo dõi nha."
+      },
+      {
+        "elementType": "p",
+        "text": "Tóm lại, nguyên tắc đầu tiên bạn phải nhớ là:"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "“Hãy tập trung cố gắng bám vào ý, để diễn đạt sao cho dễ hiểu, để người ta hiểu đúng ý của mình, chứ đừng cố gắng dịch từng từ rồi ghép vào với nhau.”"
+      }
+    ]
+  },
+  "rule-2": {
+    "header":
+      "*** Nguyên tắc số 2: Ngữ pháp không phải là con đường dẫn đến thành Rome.",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Tiếp tục post trước, nếu không dịch từng từ thì làm sao biết thứ tự như thế nào để ghép vào bây giờ? Học ngữ pháp ư?"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Biết ngữ pháp là tốt, k có kiến thức nào mà biết thêm lại là xấu cả. Nhưng việc nó có mang lại cho bạn cái bạn muốn hay không thì nó còn phụ thuộc rất nhiều vào việc: Bạn muốn gì?"
+      },
+      {
+        "elementType": "p",
+        "text": "Nếu bạn muốn giao tiếp thì câu trả lời của mình là: Không!"
+      },
+      { "elementType": "p", "text": "Sau đây là những lý do:" },
+      {
+        "elementType": "p",
+        "text":
+          "1. Muốn đúng ngữ pháp thì mỗi lần dùng 1 câu đều phải nghĩ, nhưng trong giao tiếp, phần lớn là sẽ k có thời gian để nghĩ, cái mà giao tiếp cần nhất là PHẢN XẠ, mà phản xạ với tốc độ nhanh thế thì cho dù có luyện ngữ pháp thành thạo đến thế nào cũng k thể đạt được tốc độ mà giao tiếp yêu cầu."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Ví dụ: Có người Việt nào nói chuyện mà nghĩ xem ngữ pháp thế nào trước khi nói k?"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "2. Khi giao tiếp, không yêu cầu lúc nào cũng phải đúng ngữ pháp (tất nhiên đúng thì tốt), nhưng nếu không đúng cũng k có ai từ chối nói chuyện với bạn đâu, cái người ta cần là, nói chuyện một cách TỰ NHIÊN."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Chà, đến đây thì khó rồi đây, không dịch theo từ để ghép vào, không bám vào ngữ pháp để ghép vào, thì làm thế nào mà biết thứ tự như thế nào mà nói bây giờ?"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Câu trả lời là: LUYỆN TẬP PHẢN XẠ của bạn với tiếng Anh nghe nói chuẩn, để bạn có thể CẢM THẤY một câu tiếng Anh nên như thế nào, nghe có vẻ ảo nhưng đấy là việc mà chúng ta làm, và làm rất nhiều khi nói tiếng Việt đấy ạ."
+      },
+      {
+        "elementType": "p",
+        "text": "Cách làm thế nào sẽ nằm ở post tiếp theo nha."
+      }
+    ]
+  },
+  "rule-3": {
+    "header":
+      "*** Nguyên tắc số 3: Luyện tập phản xạ mới là cái giúp cho bạn giao tiếp được",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Ở post trước mình đã giải thích tại sao không nên tập trung vào ngữ pháp nếu mong muốn giao tiếp thành thạo, ở post này mình sẽ giải thích tại sao lại luyện phản xạ thay vì ngữ pháp:"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Bạn thử nghĩ lại xem, khi bạn nói một câu tiếng Việt bất kỳ, bạn làm thế nào: Chẳng làm gì cả, cảm giác thấy nó hợp lý thì nói thôi, không tin à?"
+      },
+      { "elementType": "p", "text": "Ví dụ này: “Ngày mai mình sẽ đi chơi”." },
+      {
+        "elementType": "p",
+        "text":
+          "Với số lượng từ như trên, khả năng kết hợp là vô cùng: Tại sao bạn không nói là “Ngày mai sẽ mình đi chơi”, “Ngày mai mình sẽ chơi đi”, “Ngài mai mình chơi sẽ đi”…? Bạn có dựa vào ngữ pháp không? Câu trả lời là KHÔNG! Thế bạn dựa vào cái gì để nói được câu này? CẢM GIÁC! Bạn cảm giác câu này nói như thế, đấy là lý do tại sao nhiều khi bạn thấy người nước ngoài nhiều khi nói đúng ngữ pháp nhưng nghe cứ kỳ kỳ làm sao đó."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Vậy, cảm giác từ đâu mà có: Là do tiếp xúc thật nhiều, càng tiếp xúc nhiều với tiếng Anh giao tiếp thì phản xạ càng tốt (mình nhắc lại, tiếp xúc với tiếng Anh giao tiếp, không phải tiếng Anh trong textbook nhé), nếu ở môi trường sử dụng tiếng Anh là ngôn ngữ chính thức, thì việc tiếp xúc này rất tự nhiên hằng ngày, còn với ở Việt Nam, thì bạn buộc phải tự ép cho ra được cái “môi trường giả lập” để luyện phản xạ này."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Đặc điểm chung của việc luyện phản xạ này là nó sẽ khá gian khổ, nên cần phải thực sự kiên trì hằng ngày, k là dễ bỏ cuộc, nếu tự thấy mình không thể kiên trì, thì nên tìm một người dạy để giữ mình “theo được cuộc chơi”, không bị đứt gánh giữa đường. Bởi vì việc học giao tiếp tiếng Anh là cả một quá trình, thành công là khi bạn đi với người nước ngoài thoải mái, còn lại nếu dừng ở bất cứ bước nào: phát âm dở dang, phản xạ lúc dc lúc mất, từ vựng yếu … thì đều là thất bại (k giúp được gì nhiều cho công việc của bạn cả)."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Post tiếp theo mình sẽ nói về việc học phát âm, cũng là một phần không thể thiếu nếu muốn giao tiếp được, bên cạnh phản xạ."
+      }
+    ]
+  },
+  "rule-4": {
+    "header":
+      "*** Nguyên tắc số 4: “Phát âm cho chuẩn, nếu không thì KHÓ lắm”.",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Tại sao học phát âm quan trọng? Vì phát âm tiếng Anh rất khác với tiếng Việt."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Thử nhé: bạn có phân biệt được 5 từ sau khác nhau ở đâu không: five, fight, fire, fine, find? Nếu không thì khả năng bạn nghe được sự khác nhau, và nói được để cho người nước ngoài hiểu là không thể rồi. Mà không nghe được, không nói được cho người ta hiểu, thì giao tiếp gì được."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Ngoài ra tiếng Anh còn nhiều quy tắc phát âm vào câu nữa, nếu không biết thì giao tiếp đúng là ác mộng."
+      },
+      { "elementType": "p", "text": "Thế thì học phát âm thôi!" },
+      { "elementType": "p", "text": "Có 2 cách học phát âm:" },
+      { "elementType": "p", "text": "Cách 1: Tự học" },
+      {
+        "elementType": "p",
+        "text":
+          "* Giáo trình phát âm trên mạng thì nhiều, youtube cũng nhiều, nhưng bộ mà mình thấy đầy đủ nhất thì có lẽ là Master Spoken English, hoặc các bạn có thể tìm Video của chị Rachel (Rachel’s English) cũng khá hay."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "* Về các quy tắc đọc vào câu, bạn có thể đọc cuốn Mastering the American Accent và American Accent Training, ngoài ra thì trong quá trình xem phim, kinh nghiệm giao tiếp … tích luỹ dần."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Từ trước đến giờ mình chưa gặp ai thành công học phát âm từ cách 1 này (đây là sự thực, nhưng k có nghĩa là bạn k thể, mình chưa gặp ai chứ không phải là không có ai🙂 )."
+      },
+      { "elementType": "p", "text": "Cách 2: Học thầy" },
+      {
+        "elementType": "p",
+        "text":
+          "* Mình sẽ dạy phát âm, sửa, chỉ cách, chỉ ra điểm yếu … tóm lại là tất tần tật để bạn có thể phát âm chuẩn được, đây chỉ là một phần rất cơ bản trong cả giáo trình mình gia sư thôi, sau phần này mình còn giúp học viên luyện phản xạ giao tiếp, sửa cách nói câu … Tóm lại là mình lo từ a đến z cách học để giao tiếp được, còn lại bạn phụ trách chăm chỉ làm theo🙂."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Bạn nào muốn tham khảo giáo trình mình dạy thì có thể vào phần Đăng ký học để xem thử xem có thấy hợp không nhé."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Phản xạ rồi này, phát âm rồi này, còn gì nữa nhỉ? Từ vựng, nhất là từ vựng chuyên ngành, vì nếu bạn chỉ gặp ng nước ngoài rồi dẫn nhau đi ăn, chém gió, thì k ổn nhỉ, cuộc sống quan trọng là phải làm việc, mà học tiếng Anh lại không thể dùng để làm việc, thì k ổn tí nào."
+      },
+      {
+        "elementType": "p",
+        "text": "Vậy nguyên tắc liên quan đến từ vựng là gì? Post sau nhé."
+      }
+    ]
+  },
+  "rule-5": {
+    "header": "*** Nguyên tắc số 5: “Từ vựng, từ vựng, từ vựng”.",
+    "body": [
+      {
+        "elementType": "p",
+        "text": "Học tiếng Anh có cần từ vựng không, chắc chắn là KHÔNG!"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Mình đùa thôi, không có một thứ tiếng nào mà không cần từ vựng cả, để dùng được thứ tiếng ấy thì ít nhất là bạn phải có từ 1000-2000 từ vựng cơ bản, lượng từ vựng này sẽ giúp bạn tiến đến những mục tiêu xa hơn với ngôn ngữ đó."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Vậy với giao tiếp thì sao, giao tiếp còn đòi hỏi khả năng từ vựng hơn bình thường. Tại sao?"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Bởi vì một trong những điểm quan trọng nhất của giao tiếp là giới hạn thời gian, nghĩa là bạn sẽ luôn ở trong tình trạng, nghe xong người ta nói thì bạn chỉ có từ 5-10s để trả lời lại, chứ không có ai ngồi đó đợi bạn 1-2 phút để bạn nói được một câu cả."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Thế nên với giao tiếp thì không chỉ là phải biết từ, mà bạn còn cần có phản xạ nhanh về từ đấy, nghĩa là thời gian bạn cần để nhớ ra từ và dùng nó chỉ từ 3-5s, thậm chí là ngay lập tức."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Để đạt được điều này thì không có cách nào khác là bạn phải tiếp xúc với từ ấy nhiều, để tăng mức độ thân thuộc của mình với từ đó. Dần dần thì tốc độ nhớ ra từ đó của bạn sẽ được cải thiện dần dần."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Tất nhiên là nếu bạn cứ ngồi đó học chay thì rất chán, nên mình chỉ yêu cầu các bạn có lượng từ vựng tối thiểu, sau đó khi tham gia học thì bạn sẽ được thực hành, đọc truyện, xem phim ... Nó sẽ giúp các bạn tăng từ vựng một cách tự nhiên hơn."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nhưng việc luyện tập lượng từ vựng cơ bản là điều bạn phải làm, nếu không muốn tốn kém gấp 3-5 lần. Rồi học hết trung tâm này đến trung tâm khác mà chẳng thấy kết quả đâu cả."
+      },
+      { "elementType": "p", "text": "Thế nên, học từ vựng thôi :D." }
+    ]
+  },
+  "pronunciation": {
+    "header": "Học phát âm thế nào",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Người Việt muốn nói tiếng Anh tốt không thể không học phát âm, hơn nữa việc đầu tư học phát âm chỉ có lợi chứ không có hại, dành 2-3 tháng học phát âm sẽ tiết kiệm cho bạn cả một núi thời gian sau này khi học nghe, nói … nên mình khuyến khích các bạn nên học cách phát âm trước tất cả những cái khác, học phát âm cũng không yêu cầu từ vựng, ngữ pháp hay phản xạ nên cũng sẽ dễ hơn nhiều cho các bạn bắt đầu."
+      },
+      { "elementType": "p", "text": "Vậy học phát âm như thế nào:" },
+      {
+        "elementType": "p",
+        "text":
+          "Phát âm thì có phát âm từ và phát âm câu, mình sẽ đi vào từng phần trước."
+      },
+      { "elementType": "p", "text": "1. Phát âm từ:" },
+      {
+        "elementType": "p",
+        "text":
+          "– Muốn đọc và nghe được từ, phải biết cách phát âm của từ ấy trước, các bạn để ý khi gõ vào từ điển (nên dùng Oxford Advanced Learner Dictionary), bên dưới từ sẽ là cách phát âm của từ đó, bạn cần phải biết từng ký hiệu nhỏ ở trong phần phát âm ấy đọc như thế nào, khẩu hình miệng ra làm sau, thì mới đọc được, đọc được thì nghe chỉ là chuyện cỏn con, nó có khoảng trên dưới 40 ký hiệu nhỏ như thế, bạn có thể gõ từng ký hiệu ra trên youtube và tìm video để học, hoặc có thể học thầy. Mục tiêu là đọc đúng và đọc chuẩn được 40 âm ấy, thì mới đọc được từ."
+      },
+      { "elementType": "p", "text": "Các bạn có thể học theo bộ video này:" },
+      {
+        "elementType": "a",
+        "text": "Master spoken english",
+        "href": "https://www.youtube.com/watch?v=Yh-afJvILxY&list=PLos0wxZzgmGT9lXnOdE0FcqXfAgBAASqw"
+      },
+      {
+        "elementType": "p",
+        "text": ""
+      },
+      {
+        "elementType": "p",
+        "text": ""
+      },
+      {
+        "elementType": "p",
+        "text": "Hoặc bộ video của cô"
+      },
+      {
+        "elementType": "a",
+        "text": "Rachel",
+        "href": "https://www.youtube.com/user/rachelsenglish"
+      },
+      {
+        "elementType": "p",
+        "text": ", ngắn gọn hơn nhưng vẫn đủ, với video của cô thì bạn nên làm theo cách là tra từ trong từ điển trước, thấy ký hiệu phát âm nào mà mình chưa biết cách đọc thì copy rồi paste lên youtube, thêm vào rachel’s english đằng sau âm ấy rồi học theo:"
+      },
+      {
+        "elementType": "p",
+        "text": ""
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Bên cạnh đó là đánh trọng âm, tiếng Việt là âm đơn (bạn cứ để ý sẽ thấy) còn tiếng Anh là âm phức (ví dụ như busy, confident …), nên đánh trọng âm đúng thì người ta mới nghe được), cũng trong từ điển khi bạn tra từ, để ý chỗ nào có dấu sắc nhỏ nhỏ đánh trên đầu trước từ nào thì bạn đánh trọng âm và lên giọng ở từ theo sau đó). Đánh trọng âm thì bạn cứ nghe phát âm từ rồi để ý kỹ xem cách lên xuống giọng thế nào và bắt chước theo, cái này  quan trọng nhưng không khó để học được, chỉ cần chịu khó để ý và luyện tập hằng ngày là sẽ tốt rất lên."
+      },
+      { "elementType": "p", "text": "2. Phát âm câu:" },
+      {
+        "elementType": "p",
+        "text":
+          "– Muốn đọc và nghe được câu, thì phải biết quy tắc nối âm, bỏ âm, rồi chuyển âm thông thường đã học ở trên thành âm đặc biệt khi nói, nhấn mạnh … Các bạn có thể tham khảo 2 cuốn American Accent Trainning hoặc cuốn Mastering the American Accent, nó viết rất đầy đủ, cứ lọc ra những quy tắc phát âm dành cho người Việt rồi học theo, ngoài ra thì nên xem phim rồi chú ý nghe và bắt chước theo."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Trọng âm câu: Trong câu cũng có trọng âm, là những điều bạn muốn nhấn, cái này thì cứ xem phim r cố gắng bắt chước theo, kết hợp với các quy tắc đọc trong câu thì sẽ tốt lên, và nghe sẽ rất tự nhiên chứ không bị gò ép."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nếu như thấy khó quá thì có thể liên hệ với mình, mình nhận gia sư (lớp chỉ có 2-4 người), và đảm bảo chuẩn hết các âm và các câu cho bạn."
+      }
+    ]
+  },
+  "reflex": {
+    "header": "Luyện tập phản xạ",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Các bạn nên đọc nguyên tắc 3 về việc học phản xạ để có cái nhìn toàn cảnh về việc tại sao nên luyện phản xạ, sau đây là cách học:"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Với những bạn gần như tiếng Anh là con số 0, thì các bạn nên bắt đầu với phương pháp và giáo trình của tiến sĩ Pimsleur, sau đó nâng lên học theo giáo trình Effortless English của thầy AJ Hoge, thông tin về cách học và tải tài liệu này trên mạng có rất nhiều, còn bạn nào thấy phức tạp quá thì email mình ở phần liên hệ để hẹn mình, mình sẽ copy và giải thích những phần mà các bạn không hiểu."
+      },
+      { "elementType": "p", "text": "1. Giáo trình của tiến sĩ Pimsleur:" },
+      {
+        "elementType": "p",
+        "text":
+          "Đây là giáo trình luyện phản xạ đơn giản nhất, những câu hỏi và câu trả lời khá đơn giản, đây là trích dẫn Unit 1 của bộ giáo trình này:"
+      },
+      {
+        "elementType": "p",
+        "text": "– Excuse me, miss. Do you understand Vietnamese?"
+      },
+      {
+        "elementType": "p",
+        "text": "– No, Sir. I don’t understand Vietnamese."
+      },
+      { "elementType": "p", "text": "– I understand a little English." },
+      { "elementType": "p", "text": "– Are you Vietnamese?" },
+      { "elementType": "p", "text": "– Yes, Miss." },
+      {
+        "elementType": "p",
+        "text":
+          "Đều là những câu và từ đơn giản, sau đó sẽ có người hỏi các bạn, làm sao để hỏi bạn có hiểu tiếng Việt không? rồi bạn có phải người Việt không? Lặp đi lặp lại, cứ nghe một thời gian thì mình sẽ bắt đầu có phản xạ cho những câu này, nó sẽ ngấm dần, và khi giao tiếp mình sẽ hỏi được những câu đơn giản. Bộ giáo trình này có 30 bài luyện phản xạ kiểu này và 21 bài tập đọc, đều là những nội dung đơn giản nhất."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nhưng trong giao tiếp, phần lớn là sẽ là một người kể một đoạn chuyện, rồi người kia nghe, sau đó lại kể một đoạn chuyện, cứ liên tục như thế, chứ không chỉ là những câu ngắn như thế này, và bạn cũng cần số lượng từ phức tạp hơn, bạn nào thấy bộ này dễ quá cũng có thể chuyển sang học luôn bộ tiếp theo: Effortless English."
+      },
+      { "elementType": "p", "text": "2. Effortless English:" },
+      {
+        "elementType": "p",
+        "text":
+          "Bộ giáo trình này đồ sộ hơn nhiều so với bộ trên, cũng phức tạp hơn, hướng dẫn đọc cũng dài hơn, nhưng mình sẽ tóm lược lại những ý chính:"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Bộ này gồm có các session (khoảng 7 session tổng cộng), mỗi session lại có các bài học, mỗi bài học có các phần chính sau (các bạn cũng nên học theo thứ tự này luôn):"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Audio: Bạn nên xem qua bài text, nghe Audio một vài lượt để xem từ, cách đọc …"
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Vocabulary: Từ vựng, nghe lúc nào hiểu được từ thì thôi, đây là những từ xuất hiện trong bài học mà ông ấy nghĩ là bạn không biết, ông ấy sẽ giải thích bằng tiếng Anh, nếu nghe không hiểu thì có thể dùng từ điển tiếng Việt để tra, mình cũng lưu ý thêm là một số bạn nghĩ giỏi tiếng Anh thì không dùng từ điển tiếng Việt, cái này không đúng lắm, việc giỏi hay dốt nó không quan trọng, quan trọng là bạn có thực sự hiểu được toàn bộ sắc thái và xây dựng được cảm xúc với từ ấy hay không, các bạn có thể sử dụng bất cứ cách nào để hiểu toàn bộ sắc thái và cảm xúc của từ đó. Với mình thì mình hay đọc toàn bộ giải thích bằng từ điển tiếng Anh trước (Oxford), sau đó nếu cảm thấy mình vẫn không hiểu hết ý nghĩa của từ thì mình xem nghĩa tiếng Việt, mình thích đọc nghĩa tiếng Anh trước vì nhiều khi từ điển tiếng Việt dịch thiếu nghĩa của từ."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Ministory: Quan trọng nhất, ông ấy sẽ dựa vào bài học để hỏi bạn hàng loạt câu hỏi, bạn phải nghe và trả lời thật nhanh, chú ý là, dù với câu hỏi bạn biết hay không biết, đều phải cố gắng trả lời (câu không biết thì đoán), cái này phải nghe mỗi ngày 2-3 lần."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– PoV (Point of View Ministory): Cái này tuỳ bài học có, cái này là ông ấy kể ở các thì khác nhau, bạn nên nghe r chú ý bắt chước theo một vài lần."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "– Audio: Các bạn nghe lại một vài lần nữa xem đã hiểu hết nghĩa chưa và  bắt chước theo giọng đọc của ông ấy khi nghe."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Sau khi luyện được khoảng 6 tháng đến 1 năm thì tìm cách gặp người nước ngoài để luyện dần, không gì bằng gặp thực tế cả, cũng không gì có thể thay thế được việc gặp người nước ngoài và nói chuyện thật, nên gì thì gì cũng phải làm, nếu phát âm ok và phản xạ tạm tạm thì giao tiếp sẽ dễ dàng hơn rất nhiều."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Trên đây là cách xây dựng phản xạ, nếu bạn nào kiên trì thì sẽ đạt được cái này, không chỉ mình và nhiều người khác đã thành công với cách này, còn nếu bạn cảm thấy mình không tự học được thì nên tìm người dạy."
+      },
+      { "elementType": "p", "text": "Chúc các bạn thành công." }
+    ]
+  },
+  "vocabulary": {
+    "header": "Cách học từ vựng",
+    "body": [
+      {
+        "elementType": "p",
+        "text":
+          "Với những bạn có từ vựng yếu (làm bài test đầu vào đạt mức dưới 70%) thì làm theo hướng dẫn ở đây để nâng từ vựng."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Có hai cách học từ vựng chính mà mình thấy hiệu quả nhất, ngoài ra các bạn có thể  thử thêm cách khác, nên nhớ rằng không có cách học tiếng Anh nào là hiệu quả nhất cho tất cả mọi người, nên nếu thấy cách học nào làm bạn hứng thú thì cứ nên tiếp tục làm theo, dưới đây là gợi ý của mình:"
+      },
+      { "elementType": "p", "text": "1. Phần mềm" },
+      {
+        "elementType": "a",
+        "text": "Memrise",
+        "href": "https://www.memrise.com/"
+      },
+      {
+        "elementType": "p",
+        "text": ""
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Đây là phần mềm học tiếng Anh mà theo đánh giá của mình là hay nhất cho những người từ vựng còn kém, bạn có thể học phiên bản trên web, hoặc tải app về điện thoại để tranh thủ học những lúc rảnh (free)."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Chú ý là memrise có rất nhiều khóa học, nên nếu không biết chọn thì bạn sẽ bị choáng đấy."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Bạn nên cài đặt để hiển thị ngôn ngữ mình nói là tiếng Việt, sau đó vào danh sách khóa học cho người Việt và chọn khóa từ vựng cơ bản (1500 từ) sau đó học hàng ngày."
+      },
+      { "elementType": "p", "text": "2. Đọc truyện" },
+      { "elementType": "p", "text": "Cách bạn có thể " },
+      { "elementType": "localA", "text": "vào đây", "href": "/stories" },
+      {
+        "elementType": "p",
+        "text":
+          "để lấy truyện đọc, đây là bộ truyện mà mình đánh giá là đầy đủ nhất, đã sắp xếp level từ thấp đến cao, có cả level từ 0-1 cho người mới bắt đầu luôn."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Nâng từ vựng qua đọc truyện là cách học rất hiệu quả, bạn không chỉ biết thêm từ, mà quan trọng hơn là bạn còn học được cách dùng từ trong câu như thế nào, giúp bạn nâng thêm phản xạ tiếng Anh của bản thân nữa."
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Các bạn có thể tham khảo lý do tại sao phải nâng phản xạ tiếng Anh"
+      },
+      {
+        "elementType": "localA",
+        "text": "tại đây:",
+        "href": "/self-study/reflex"
+      },
+      {
+        "elementType": "p",
+        "text": ""
+      },
+      {
+        "elementType": "p",
+        "text":
+          "Kiên trì kết hợp hai cách nâng từ vựng ở trên, sau 2-3 tháng bạn sẽ thấy lượng từ vựng của mình được cải thiện một cách đáng kể, và khi bạn đi học thêm tiếng Anh sẽ thấy hiệu quả hơn rất nhiều là đi học với số lượng từ vựng gần như bằng 0."
+      },
+      { "elementType": "p", "text": "Chúc các bạn thành công." }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="col-3">
+    <ul class="list-group">
+      <li class="list-group-item" routerLink="/self-study/rule-1" routerLinkActive="active">Nguyên tắc 1</li>
+      <li class="list-group-item" routerLink="/self-study/rule-2" routerLinkActive="active">Nguyên tắc 2</li>
+      <li class="list-group-item" routerLink="/self-study/rule-3" routerLinkActive="active">Nguyên tắc 3</li>
+      <li class="list-group-item" routerLink="/self-study/rule-4" routerLinkActive="active">Nguyên tắc 4</li>
+      <li class="list-group-item" routerLink="/self-study/rule-5" routerLinkActive="active">Nguyên tắc 5</li>
+      <li class="list-group-item" routerLink="/self-study/pronunciation" routerLinkActive="active">Học phát âm</li>
+      <li class="list-group-item" routerLink="/self-study/reflex" routerLinkActive="active">Luyện phản xạ</li>
+      <li class="list-group-item" routerLink="/self-study/vocabulary" routerLinkActive="active">Học từ vựng</li>
+    </ul>
+  </div>
+  <div class="col-9">
+    <h3>{{ ruleHeader }}</h3>
+    <div *ngFor="let line of ruleBody; index as i" class="d-inline">
+      <div *ngIf="line.elementType === 'p'"  class="d-inline">
+        <p [ngClass]="siblingIsLink(i)">{{ line.text }}</p>
+      </div>
+      <div *ngIf="line.elementType === 'a'" class="d-inline">
+          <a [href]="line.href">{{ line.text }}</a>
+        </div>
+      <div *ngIf="line.elementType === 'localA'" class="d-inline">
+          <a [routerLink]="line.href">{{ line.text }}</a>
+        </div>
+    </div>
+  </div>
+</div>

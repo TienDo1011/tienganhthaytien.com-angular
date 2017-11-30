@@ -9,7 +9,10 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "favicon.ico"
+        "favicon.ico",
+        "sw.js",
+        "bootstrap.min.css",
+        "material-design-iconic-font.min.css"
       ],
       "index": "index.html",
       "main": "main.ts",

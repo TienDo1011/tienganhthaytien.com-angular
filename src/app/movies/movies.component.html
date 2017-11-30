@@ -1,3 +1,25 @@
-<p>
-  movies works!
+<h3>HIMYM</h3>
+<hr />
+<div>Hướng dẫn xem phim:</div>
+<p>Để học tiếng anh qua phim một cách hiệu quả, các bạn làm theo thứ tự sau:</p>
+<p>1. Mở file subtitle ra trước, tra hết các từ mà các bạn đọc không hiểu.</p>
+<p>2. Các bạn xem phim không có sub, để luyện khả năng nghe của mình, đoạn nào không nghe được
+  thì mở lại sub ra xem lại. Sau khi được thầy giáo hỗ trợ với những đoạn không hiểu thì các bạn cần
+  xem đi xem lại nhiều lần để luyện khả năng nghe của mình.
 </p>
+<div class="ui green basic label">Subtitles: </div><a href="https://drive.google.com/drive/folders/0B-0KwEEXjKuKZlRlT2pvVkVuQU0?usp=sharing">Click để xem toàn bộ subtitles</a>
+<div class="ui embed" data-url="https://drive.google.com/embeddedfolderview?id=0B-0KwEEXjKuKZlRlT2pvVkVuQU0"></div>
+<div class="row">
+  <div class="col-xs-12 col-md-8">
+    <div class="embed-responsive embed-responsive-16by9">
+      <video class="embed-responsive-item"  id="videoarea" controls="controls" poster="/assets/howimet.jpg" src="/assets/{{videoNum}}.mp4"></video>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-4">
+    <ul id="playlist">
+      <li movieurl="/assets/1.mp4" (click)="play('1')">Episode 1</li>
+      <li movieurl="/assets/2.mp4" (click)="play('2')">Episode 2</li>
+      <li movieurl="/assets/3.mp4" (click)="play('3')">Episode 3</li>
+    </ul>
+  </div>
+</div>
